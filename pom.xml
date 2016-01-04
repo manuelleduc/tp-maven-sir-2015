@@ -43,4 +43,8 @@
             </plugin>
         </plugins>
     </reporting>
+    <scm>
+        <connection>scm:git:https://github.com/manuelleduc/tp-maven-sir-2015.git</connection>
+        <url>https://github.com/manuelleduc/tp-maven-sir-2015</url>
+    </scm>
 </project>
